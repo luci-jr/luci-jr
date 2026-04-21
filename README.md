@@ -20,7 +20,7 @@
 <div align="left">
 
   ## 🚩 Minha Jornada Dev
-  <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/luci-jr/luci-jr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
