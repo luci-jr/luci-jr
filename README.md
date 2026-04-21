@@ -11,8 +11,8 @@
 <br>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&hide=html,css&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&locale=pt-br&custom_title=Minhas%20Linguagens" alt="Minhas Linguagens" />
 </div>
 
 <br>
@@ -30,35 +30,35 @@
 
 ## 🛠 Backend & Infraestrutura
 
-<img alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img alt="Spring" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img alt="MySQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img alt="Oracle DB" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img alt="AWS" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img alt="Docker" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img alt="Linux" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;
+<img alt="Spring" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />&nbsp;&nbsp;
+<img alt="MySQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+<img alt="Oracle DB" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
+<img alt="AWS" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+<img alt="Docker" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&nbsp;&nbsp;
+<img alt="Linux" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
 
 <br><br>
 
 ## 💻 Frontend & Mobile
 
-<img alt="JS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="TS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img alt="HTML5" height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
-<img alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img alt="Angular" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img alt="Ionic" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
+<img alt="JS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img alt="TS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+<img alt="HTML5" height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />&nbsp;&nbsp;
+<img alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+<img alt="Angular" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;&nbsp;
+<img alt="Ionic" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />&nbsp;&nbsp;
 
 <br><br>
 
 ## 🧪 Testes & Ferramentas
 
-<img alt="Git" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img alt="GitHub" height="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" style="filter: invert(31%) sepia(94%) saturate(1134%) hue-rotate(242deg) brightness(89%) contrast(101%);" />
-<img alt="VS Code" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img alt="IntelliJ IDEA" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img alt="Postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img alt="DBeaver" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
+<img alt="Git" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;
+<img alt="GitHub" height="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" style="filter: invert(31%) sepia(94%) saturate(1134%) hue-rotate(242deg) brightness(89%) contrast(101%);" />&nbsp;&nbsp;
+<img alt="VS Code" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+<img alt="IntelliJ IDEA" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />&nbsp;&nbsp;
+<img alt="Postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;&nbsp;
+<img alt="DBeaver" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />&nbsp;&nbsp;
 
 </div>
 
@@ -70,13 +70,13 @@
 
 <a href="https://www.linkedin.com/in/lucivaldojr/" target="_blank">
   <img alt="LinkedIn" height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://wa.me/5591982687350" target="_blank">
   <img alt="WhatsApp" height="60" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://discord.com/users/pequeno1987" target="_blank">
   <img alt="Discord" height="60" src="https://cdn.simpleicons.org/discord/5865F2" />
-</a>
+</a>&nbsp;&nbsp;
 </div>
 
 <br>
