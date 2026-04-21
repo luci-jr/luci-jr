@@ -19,9 +19,8 @@
 
 <div align="left">
 
-## 🐍 My Dev Journey
-
-<img src="https://raw.githubusercontent.com/luci-jr/luci-jr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  ## 🚩 Minha Jornada Dev
+  <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -43,20 +42,22 @@
 
 ## 💻 Frontend & Mobile
 
+<img alt="JS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="TS" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="HTML5" height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img alt="Angular" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img alt="Ionic" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
-<img alt="TypeScript" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img alt="JavaScript" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Firebase" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+<img alt="Ionic" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
 
 <br><br>
 
 ## 🧪 Testes & Ferramentas
 
-<img alt="JUnit" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
-<img alt="Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Git" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img alt="GitHub" height="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" style="filter: invert(31%) sepia(94%) saturate(1134%) hue-rotate(242deg) brightness(89%) contrast(101%);" />
+<img alt="VS Code" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img alt="IntelliJ IDEA" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img alt="Postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img alt="Salesforce Apex" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
 <img alt="DBeaver" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
 
 </div>
@@ -67,13 +68,15 @@
 
 ## 📫 Entre em contato
 
-<a href="mailto:lucivaldojr25@gmail.com">
-  <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://www.linkedin.com/in/lucivaldojr/" target="_blank">
+  <img alt="LinkedIn" height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/lucivaldojr/">
-  <img height="40" src="https://img.shields.io/badge/-LinkedIn-%23E95420?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://wa.me/5591982687350" target="_blank">
+  <img alt="WhatsApp" height="60" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
 </a>
-
+<a href="https://discord.com/users/pequeno1987" target="_blank">
+  <img alt="Discord" height="60" src="https://cdn.simpleicons.org/discord/5865F2" />
+</a>
 </div>
 
 <br>
@@ -86,7 +89,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=E95420&background=00000000&center=true&vCenter=true&width=400&height=50&lines=FINISH" alt="Finish" />
 </div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=footer" alt="Footer Wave" />
