@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: luci-jr
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=E95420&color_dots=#161b22,#3b1f1a,#6e2a18,#a8401d,#E95420
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=E95420&color_dots=#2C001E,#5E2750,#77216F,#AEA79F,#E95420
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4

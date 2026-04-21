@@ -11,8 +11,8 @@
 <br>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&title_color=E95420&icon_color=E95420&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&hide=html,css&count_private=true&title_color=E95420&text_color=E95420&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=monafmenezes&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monafmenezes&layout=compact&theme=tokyonight&hide=html,css&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" />
 </div>
 
 <br>
@@ -78,12 +78,13 @@
 
 <br>
 
-<div align="left">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="GIF original" />
+</div>
+<br>
 
-## 🐍 My Dev Journey
-
-<img src="https://raw.githubusercontent.com/luci-jr/luci-jr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=4DA3FF&background=00000000&center=true&vCenter=true&width=400&height=50&lines=FINISH" alt="Finish" />
 </div>
 
 <br>
