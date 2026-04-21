@@ -17,9 +17,13 @@
 
 <br>
 
-<div align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luci-jr&theme=react-dark&area=true&hide_border=true&color=E95420" alt="Gráfico de Contribuição" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br>
 
