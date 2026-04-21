@@ -19,15 +19,6 @@
 
 <div align="left">
 
-  ## 🚩 Minha Jornada Dev
-  <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</div>
-
-<br>
-
-<div align="left">
-
 ## 🛠 Backend & Infraestrutura
 
 <img alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -59,6 +50,14 @@
 <img alt="IntelliJ IDEA" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img alt="Postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img alt="DBeaver" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
+
+
+<br>
+
+<div align="left">
+
+  ## 🚩 Minha Jornada Dev
+  <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
