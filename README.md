@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=header" alt="Header Wave" />
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+EU+SOU+O+LUCIVALDO+JUNIOR;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E95420&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+EU+SOU+O+LUCIVALDO+JUNIOR;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,14 +11,14 @@
 <br>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&hide=html,css&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&title_color=E95420&icon_color=E95420&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&hide=html,css&count_private=true&title_color=E95420&text_color=E95420&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luci-jr&theme=react-dark&area=true&hide_border=true&color=00bfbf" alt="Gráfico de Contribuição" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luci-jr&theme=react-dark&area=true&hide_border=true&color=E95420" alt="Gráfico de Contribuição" />
 </div>
 
 <br>
@@ -67,7 +67,7 @@
   <img height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/lucivaldojr/">
-  <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img height="40" src="https://img.shields.io/badge/-LinkedIn-%23E95420?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -84,4 +84,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="Footer Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=footer" alt="Footer Wave" />
