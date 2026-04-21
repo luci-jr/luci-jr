@@ -45,7 +45,7 @@
 ## 🧪 Testes & Ferramentas
 
 <img alt="Git" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img alt="GitHub" height="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" style="filter: invert(31%) sepia(94%) saturate(1134%) hue-rotate(242deg) brightness(89%) contrast(101%);" />
+<img alt="GitHub" height="60" src="https://cdn.simpleicons.org/github/00bfbf" />
 <img alt="VS Code" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img alt="IntelliJ IDEA" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img alt="Postman" height="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
