@@ -39,7 +39,7 @@
 <img alt="HTML5" height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img alt="Angular" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img alt="Ionic" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
+
 
 <br><br>
 
