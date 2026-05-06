@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=header" alt="Header Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header Wave" />
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=E95420&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+EU+SOU+O+LUCIVALDO+JUNIOR;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+EU+SOU+O+LUCIVALDO+JUNIOR;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -87,7 +87,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=E95420&background=00000000&center=true&vCenter=true&width=400&height=50&lines=FINISH" alt="Finish" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&color=00bfbf&background=00000000&center=true&vCenter=true&width=400&height=50&lines=FINISH" alt="Finish" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=120&section=footer" alt="Footer Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="Footer Wave" />
