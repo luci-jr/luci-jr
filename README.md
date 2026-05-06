@@ -12,7 +12,7 @@
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
 </div>
 
 <br>
