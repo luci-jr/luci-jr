@@ -4,6 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+EU+SOU+O+LUCIVALDO+JUNIOR;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/luci-jr.png" width="150" style="border: 4px solid #00bfbf; border-radius: 15px;" alt="Lucivaldo Junior" />
+  <br><br>
+  <p align="center">
+    <strong>Lucivaldo Junior</strong><br>
+    <em>Desenvolvedor Back-end | Java | Go | Spring Boot | DevOps | AWS</em>
+  </p>
+  <p align="center">
+    Minha trajetória profissional é marcada por uma transição de carreira estratégica para a área de tecnologia após <b>15 anos de atuação como Chef de Cozinha</b>, onde desenvolvi extrema disciplina, resiliência e capacidade de liderança sob pressão.
+  </p>
+  <p align="center">
+    Com <b>experiência prática</b> no desenvolvimento <b>Back-end</b> e em soluções de <b>Cloud</b> (construindo APIs robustas com <b>Java e Spring Boot</b> e gerenciando infraestrutura na <b>AWS</b>), atualmente busco novas oportunidades. Estou focado em me especializar ainda mais nessas áreas (inclusive me preparando para a certificação <b>AWS Cloud Practitioner</b>), mantendo também um pouco de conhecimento em <b>Angular</b>. Sou graduando em Análise e Desenvolvimento de Sistemas pela UNAMA.
+  </p>
+</div>
+
 <br>
 
 <div align="left">
@@ -12,8 +27,8 @@
 
 <div align="left" style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img alt="Go" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img alt="Spring" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img alt="Go" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img alt="MySQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="PostgreSQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="Oracle DB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
