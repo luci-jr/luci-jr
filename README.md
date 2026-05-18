@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/luci-jr.png" width="150" style="border: 4px solid #00bfbf; border-radius: 15px;" alt="Lucivaldo Junior" />
+  <kbd>
+    <img src="https://github.com/luci-jr.png" width="150" alt="Lucivaldo Junior" />
+  </kbd>
   <br><br>
   <p align="center">
     <strong>Lucivaldo Junior</strong><br>
