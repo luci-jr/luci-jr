@@ -4,17 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+EU+SOU+O+LUCIVALDO+JUNIOR;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding Gif" />
-</div>
-
-<br>
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
-</div>
-
 <br>
 
 <div align="left">
@@ -44,7 +33,6 @@
   <img alt="Angular" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
 
-
 <br><br>
 
 ## 🧪 Testes & Ferramentas
@@ -57,12 +45,27 @@
   <img alt="DBeaver" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
 </div>
 
+</div>
+
+<br>
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding Gif" />
+</div>
+
 <br>
 
 <div align="left">
 
   ## 🚩 Minha Jornada Dev
-  <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/luci-jr/luci-jr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -88,6 +91,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="GIF original" />
 </div>
+
 <br>
 
 <div align="center">
