@@ -80,7 +80,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50"/><br><sub><b>Oracle DB</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://img.icons8.com/color/48/nosql.png" width="50"/><br><sub><b>NoSQL</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50"/><br><sub><b>NoSQL</b></sub>
 </td>
 </tr>
 </table>
