@@ -289,11 +289,6 @@
 </a>
 </td>
 <td align="center" width="120">
-<a href="mailto:lucivaldojr25@gmail.com" target="_blank">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/><br><sub><b>E-mail</b></sub>
-</a>
-</td>
-<td align="center" width="120">
 <a href="https://discord.com/users/pequeno1987" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" width="50"/><br><sub><b>Discord</b></sub>
 </a>
