@@ -79,6 +79,9 @@
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50"/><br><sub><b>Oracle DB</b></sub>
 </td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dynamodb" width="50"/><br><sub><b>DynamoDB</b></sub>
+</td>
 </tr>
 </table>
 
