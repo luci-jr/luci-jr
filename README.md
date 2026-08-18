@@ -25,60 +25,6 @@
 
 ---
 
-## 🗂️ Projetos em Destaque
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="500" valign="top">
-      <h3>☕ API REST Backend — Java & Spring Boot</h3>
-      <p>Desenvolvimento de API RESTful robusta e escalável utilizando Java e Spring Boot, com autenticação Spring Security, persistência de dados e documentação OpenAPI/Swagger.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
-    </td>
-    <td width="500" valign="top">
-      <h3>⚡ Microserviços & Cloud — Go & AWS</h3>
-      <p>Construção de microserviços concorrentes de alta performance em Go, integrando serviços AWS Cloud e conteinerização com Docker para alta disponibilidade.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="500" valign="top">
-      <h3>🗄️ Infraestrutura de Dados — SQL & Relacional</h3>
-      <p>Modelagem relacional e otimização de consultas em bancos de dados MySQL, PostgreSQL e Oracle DB, garantindo integridade de dados e alta performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-      </p>
-      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
-    </td>
-    <td width="500" valign="top">
-      <h3>🌐 Frontend Web — Angular & Integração API</h3>
-      <p>Desenvolvimento de interfaces web reativas em Angular com TypeScript, consumindo serviços REST e proporcionando experiências dinâmicas de usuário.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
 ## 🛠️ Habilidades Técnicas
 
 <h2 align="center">☕ Back-end & Linguagens</h2>
@@ -193,7 +139,7 @@
 <br>
 
 <div align="center">
-  <img width="650" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Desk.gif" alt="Developer Desk Animation" />
+  <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding Gif" />
 </div>
 
 <br>
@@ -204,6 +150,60 @@
   <img src="https://raw.githubusercontent.com/monafmenezes/monafmenezes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
+
+<br>
+
+---
+
+## 🗂️ Projetos em Destaque
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="500" valign="top">
+      <h3>☕ API REST Backend — Java & Spring Boot</h3>
+      <p>Desenvolvimento de API RESTful robusta e escalável utilizando Java e Spring Boot, com autenticação Spring Security, persistência de dados e documentação OpenAPI/Swagger.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
+    </td>
+    <td width="500" valign="top">
+      <h3>⚡ Microserviços & Cloud — Go & AWS</h3>
+      <p>Construção de microserviços concorrentes de alta performance em Go, integrando serviços AWS Cloud e conteinerização com Docker para alta disponibilidade.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="500" valign="top">
+      <h3>🗄️ Infraestrutura de Dados — SQL & Relacional</h3>
+      <p>Modelagem relacional e otimização de consultas em bancos de dados MySQL, PostgreSQL e Oracle DB, garantindo integridade de dados e alta performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </p>
+      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
+    </td>
+    <td width="500" valign="top">
+      <h3>🌐 Frontend Web — Angular & Integração API</h3>
+      <p>Desenvolvimento de interfaces web reativas em Angular com TypeScript, consumindo serviços REST e proporcionando experiências dinâmicas de usuário.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/luci-jr?tab=repositories">📁 Ver Repositórios</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
