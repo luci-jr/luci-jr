@@ -27,7 +27,30 @@
 
 ## 🛠️ Habilidades Técnicas
 
-<h2 align="center">☕ Back-end & Linguagens</h2>
+<h2 align="center">💻 Front-end</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=angular" width="50"/><br><sub><b>Angular</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">☕ Back-end & Bancos de Dados</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -39,37 +62,6 @@
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=go" width="50"/><br><sub><b>Go</b></sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts" width="50"/><br><sub><b>TypeScript</b></sub>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">☁️ Cloud & DevOps</h2>
-<table align="center">
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🗄️ Bancos de Dados</h2>
-<table align="center">
-<tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub>
 </td>
@@ -87,17 +79,17 @@
 
 ---
 
-<h2 align="center">💻 Front-end</h2>
+<h2 align="center">☁️ Cloud & DevOps</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=angular" width="50"/><br><sub><b>Angular</b></sub>
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML5</b></sub>
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS3</b></sub>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub>
 </td>
 </tr>
 </table>
