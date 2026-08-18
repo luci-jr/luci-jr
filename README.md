@@ -25,9 +25,9 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Habilidades Técnicas
 
-<h2 align="center">💻 Front-End Development</h2>
+<h2 align="center">💻 Front-End</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center">☕ Back-End & Databases</h2>
+<h2 align="center">☕ Back-End</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -74,16 +74,22 @@
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50"/><br><sub><b>NoSQL</b></sub>
 </td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50"/><br><sub><b>Firestore</b></sub>
+</td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">☁️ Cloud & DevOps</h2>
+<h2 align="center">☁️ Cloud & SysOps</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gcp" width="50"/><br><sub><b>GCP</b></sub>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
@@ -96,7 +102,7 @@
 
 ---
 
-<h2 align="center">🔁 Tools & Productivity</h2>
+<h2 align="center">🔁 Ferramentas & Produtividade</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -124,9 +130,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<div align="left">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
 </div>
