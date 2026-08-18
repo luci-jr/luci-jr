@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://img.shields.io/static/v1?label=&message=🇧🇷%20Português&color=00bfbf&style=for-the-badge" alt="Português"/>
+  <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7_Portugu%C3%AAs-00bfbf?style=for-the-badge" alt="Português"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header Wave" />
