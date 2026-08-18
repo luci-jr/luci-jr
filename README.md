@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://img.shields.io/static/v1?label=&message=🇧🇷%20Português&color=00bfbf&style=for-the-badge" alt="Português"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header Wave" />
 
 <div align="left">
@@ -6,20 +10,35 @@
 
 <div align="center">
   <kbd>
-    <img src="https://github.com/luci-jr.png" width="150" alt="Lucivaldo Junior" />
+    <img src="https://github.com/luci-jr.png" width="160" alt="Lucivaldo Junior" />
   </kbd>
   <br><br>
+
+  <h1 align="center"><font color="#00bfbf">Lucivaldo Junior</font></h1>
+
+  <h3 align="center">⚡ Desenvolvedor Back-end | Cloud & SysOps</h3>
+
   <p align="center">
-    <strong>Lucivaldo Junior</strong><br>
-    <em>Desenvolvedor Back-end | Java | Spring Boot 3 | AWS | Docker | SysOps</em>
-  </p>
-  <p align="center">
-    Desenvolvedor de Software focado em <b>Desenvolvimento Back-end (Java, Spring Boot 3)</b>, <b>APIs RESTful</b> e infraestrutura <b>Cloud/SysOps (AWS e Docker)</b>. Experiência na construção de microsserviços, automação de processos (<b>n8n</b>), gestão de bancos de dados (<b>PostgreSQL, Redis, Firestore</b>) e suporte a sistemas em produção.
-  </p>
-  <p align="center">
-    Background de <b>15+ anos na gestão sob alta pressão (como Chef de Cozinha)</b>, agregando resiliência, disciplina e resolução ágil de problemas. Graduando em <b>Análise e Desenvolvimento de Sistemas pela UNAMA</b>.
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
 </div>
+
+<br>
+
+---
+
+## 🚀 Sobre mim
+
+Desenvolvedor de Software focado em **Desenvolvimento Back-end (Java, Spring Boot 3)**, **APIs RESTful** e infraestrutura **Cloud & SysOps (AWS e Docker)**. Experiência prática na construção de microsserviços, automação de fluxos de trabalho (**n8n**), gestão de bancos de dados (**PostgreSQL, Redis, Firestore**) e suporte contínuo a sistemas em produção.
+
+Possuo background de **15+ anos na liderança de equipes em ambientes de alta pressão** (atuando como Chef de Cozinha e Gestor de Operações), o que me proporcionou extrema disciplina, resiliência, senso de urgência e capacidade de resolução ágil de problemas em cenários críticos.
+
+Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no programa intensivo **AWS re/Start Graduate (300h)**, busco aplicar soluções eficientes, escaláveis e de alta qualidade no desenvolvimento de software.
 
 <br>
 
@@ -242,7 +261,7 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+## 📊 Estatísticas do GitHub
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -255,6 +274,8 @@
     </td>
   </tr>
 </table>
+
+
 
 <br>
 
