@@ -25,9 +25,9 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-<h2 align="center">💻 Front-end</h2>
+<h2 align="center">💻 Front-End Development</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center">☕ Back-end & Bancos de Dados</h2>
+<h2 align="center">☕ Back-End & Databases</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -96,7 +96,7 @@
 
 ---
 
-<h2 align="center">🔁 Ferramentas & Produtividade</h2>
+<h2 align="center">🔁 Tools & Productivity</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
