@@ -176,6 +176,20 @@ Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
+    <td colspan="2" align="center">
+      <h3>🏹 Égua Mano! Gamer — Aventura Arcade 16-Bit em Belém do Pará</h3>
+      <p>Jogo de ação e plataforma 16-bit desenvolvido 100% em <b>Go (Golang 1.22+)</b> com a engine <b>Ebitengine v2</b>. Ambientado nos cartões-postais de Belém (Ver-o-Peso, Estação das Docas e Theatro da Paz), com física vetorial, carimbó chiptune autoral 8-bit e deploy WebAssembly + Android TWA.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ebitengine-00BFBF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+      <a href="https://github.com/luci-jr/egua-mano_gamer">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://luci-jr.github.io/egua-mano_gamer/">🕹️ Jogar Online (WebAssembly)</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
     <td width="500" valign="top">
       <h3>🌐 Comunidade Tech — Plataforma Educacional</h3>
       <p>Plataforma para auxiliar iniciantes na TI com trilhas de aprendizado. SPA reativa desenvolvida em Angular com Signals, Control Flow, Firebase (Firestore + Hosting) e RxJS.</p>
