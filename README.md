@@ -334,7 +334,9 @@ Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="GIF original" />
+  <a href="https://luci-jr.github.io/egua-mano_gamer/" target="_blank">
+    <img width="100%" src="./egua_mano.gif" alt="Égua Mano! Gamer — Jogue Online" />
+  </a>
 </div>
 
 <br>
