@@ -16,7 +16,7 @@
 
   <h1 align="center"><font color="#00bfbf">Lucivaldo Junior</font></h1>
 
-  <h3 align="center">⚡ Desenvolvedor Back-end | Cloud & SysOps</h3>
+  <h3 align="center">⚡ Desenvolvedor Back-end | Java (Spring Boot) | Go | AWS | Docker | PostgreSQL</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor de Software focado em **Desenvolvimento Back-end (Java, Spring Boot 3)**, **APIs RESTful** e infraestrutura **Cloud & SysOps (AWS e Docker)**. Experiência prática na construção de microsserviços, automação de fluxos de trabalho (**n8n**), gestão de bancos de dados (**PostgreSQL, Redis, Firestore**) e suporte contínuo a sistemas em produção.
+Desenvolvedor de Software focado em **Desenvolvimento Back-end (Java, Spring Boot 3 e Go)**, **APIs RESTful** e infraestrutura **Cloud & SysOps (AWS e Docker)**. Experiência prática na construção de microsserviços concorrentes e sistemas distribuídos, automação de fluxos de trabalho (**n8n**), gestão de bancos de dados (**PostgreSQL, Redis, Firestore**) e suporte contínuo a sistemas em produção.
 
 Possuo background de **15+ anos na liderança de equipes em ambientes de alta pressão** (atuando como Chef de Cozinha e Gestor de Operações), o que me proporcionou extrema disciplina, resiliência, senso de urgência e capacidade de resolução ágil de problemas em cenários críticos.
 
@@ -176,29 +176,42 @@ Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td colspan="2" align="center">
-      <h3>🏹 Égua Mano! Gamer — Aventura Arcade 16-Bit em Belém do Pará</h3>
-      <p>Jogo de ação e plataforma 16-bit desenvolvido 100% em <b>Go (Golang 1.22+)</b> com a engine <b>Ebitengine v2</b>. Ambientado nos cartões-postais de Belém (Ver-o-Peso, Estação das Docas e Theatro da Paz), com física vetorial, carimbó chiptune autoral 8-bit e deploy WebAssembly + Android TWA.</p>
+    <td width="500" valign="top">
+      <h3>🎰 Desafio Proposto (Jungle Gaming): Engine de Apostas — Jungle Slots 1987</h3>
+      <p>Projeto prático desenvolvido a partir de um <b>desafio técnico proposto pela Jungle Gaming</b> para processamento financeiro concorrente e distribuído de apostas (<i>iGaming / Sportsbook</i>) em <b>Go (Golang 1.22+)</b> e <b>Uber Fx</b>. Modelagem monetária estrita em centavos (zero float), concorrência pessimista (<code>SELECT ... FOR UPDATE</code>), idempotência persistente SHA-256 em 3 camadas, Ledger imutável com triggers SQL, <b>AWS SQS FIFO</b>, <b>Keycloak 24 OIDC</b> e simulador interativo arcade retrô em <b>Go WebAssembly (WASM)</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Uber_Fx-000000?style=flat-square&logo=uber&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL_16-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_SQS_FIFO-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keycloak_24-5B63D3?style=flat-square&logo=keycloak&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+      </p>
+      <a href="https://github.com/luci-jr/desafio-jungle-game">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://jungle-slots-1987.vercel.app">🕹️ Simulador Online</a>
+    </td>
+    <td width="500" valign="top">
+      <h3>🏹 Égua Mano! Gamer — Aventura 16-Bit</h3>
+      <p>Jogo de ação e plataforma 16-bit desenvolvido 100% em <b>Go (Golang 1.22+)</b> com a engine <b>Ebitengine v2</b>. Ambientado nos cartões-postais de Belém (Ver-o-Peso, Estação das Docas e Theatro da Paz), com física vetorial, carimbó chiptune autoral 8-bit e distribuição multiplataforma (Linux nativo, WebAssembly e Android TWA).</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ebitengine-00BFBF?style=flat-square"/>
         <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       </p>
-      <a href="https://github.com/luci-jr/egua-mano_gamer">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://luci-jr.github.io/egua-mano_gamer/">🕹️ Jogar Online (WebAssembly)</a>
+      <a href="https://github.com/luci-jr/egua-mano_gamer">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://luci-jr.github.io/egua-mano_gamer/">🕹️ Jogar Online</a>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="500" valign="top">
       <h3>🌐 Comunidade Tech — Plataforma Educacional</h3>
-      <p>Plataforma para auxiliar iniciantes na TI com trilhas de aprendizado. SPA reativa desenvolvida em Angular com Signals, Control Flow, Firebase (Firestore + Hosting) e RxJS.</p>
+      <p>Plataforma para auxiliar iniciantes na TI com trilhas de aprendizado. SPA reativa desenvolvida em <b>Angular 21</b> com Signals, Control Flow, Firebase (Firestore + Hosting) e RxJS.</p>
       <p>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
-      <a href="https://github.com/luci-jr/comunidade-tech">📁 Ver Repositório</a>
+      <a href="https://github.com/luci-jr/comunidade-tech">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://comunidade.tech.lucivaldo.cloud/inicio">🌍 Acessar Online</a>
     </td>
     <td width="500" valign="top">
       <h3>🏦 Retro-Bank — Sistema Bancário em Go</h3>
