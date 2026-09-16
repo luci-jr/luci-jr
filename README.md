@@ -177,8 +177,8 @@ Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="500" valign="top">
-      <h3>🎰 Desafio Proposto (Jungle Gaming): Engine de Apostas — Jungle Slots 1987</h3>
-      <p>Projeto prático desenvolvido a partir de um <b>desafio técnico proposto pela Jungle Gaming</b> para processamento financeiro concorrente e distribuído de apostas (<i>iGaming / Sportsbook</i>) em <b>Go (Golang 1.22+)</b> e <b>Uber Fx</b>. Modelagem monetária estrita em centavos (zero float), concorrência pessimista (<code>SELECT ... FOR UPDATE</code>), idempotência persistente SHA-256 em 3 camadas, Ledger imutável com triggers SQL, <b>AWS SQS FIFO</b>, <b>Keycloak 24 OIDC</b> e simulador interativo arcade retrô em <b>Go WebAssembly (WASM)</b>.</p>
+      <h3>🎰 Desafio Proposto (<a href="https://junglegaming.io/pt" target="_blank">Jungle Gaming</a>): Engine de Apostas — Jungle Slots 1987</h3>
+      <p>Projeto prático desenvolvido a partir de um <b>desafio técnico proposto pela <a href="https://junglegaming.io/pt" target="_blank">Jungle Gaming</a></b> para processamento financeiro concorrente e distribuído de apostas (<i>iGaming / Sportsbook</i>) em <b>Go (Golang 1.22+)</b> e <b>Uber Fx</b>. Modelagem monetária estrita em centavos (zero float), concorrência pessimista (<code>SELECT ... FOR UPDATE</code>), idempotência persistente SHA-256 em 3 camadas, Ledger imutável com triggers SQL, <b>AWS SQS FIFO</b>, <b>Keycloak 24 OIDC</b> e simulador interativo arcade retrô em <b>Go WebAssembly (WASM)</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Uber_Fx-000000?style=flat-square&logo=uber&logoColor=white"/>
