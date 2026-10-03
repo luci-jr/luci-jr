@@ -187,7 +187,7 @@ Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no
         <img src="https://img.shields.io/badge/Keycloak_24-5B63D3?style=flat-square&logo=keycloak&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
       </p>
-      <a href="https://github.com/luci-jr/desafio-jungle-game">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://jungle-slots-1987.vercel.app">🕹️ Simulador Online</a>
+      <a href="https://github.com/luci-jr/desafio-jungle-game">📁 Ver Repositório</a>
     </td>
     <td width="500" valign="top">
       <h3>🏹 Égua Mano! Gamer — Aventura 16-Bit</h3>
