@@ -165,6 +165,9 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=idea" width="50"/><br><sub><b>IntelliJ IDEA</b></sub>
 </td>
+<td align="center" width="120">
+<img src="assets/icons/antigravity.png" width="50"/><br><sub><b>Antigravity</b></sub>
+</td>
 </tr>
 </table>
 
@@ -253,7 +256,34 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
 
 ---
 
-## 🏆 Formação & Certificações
+## 🏆 Formação, Certificações & Badges
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center" width="125">
+        <a href="https://www.credly.com/earner/earned/badge/18c251c3-0f10-4206-a71c-a00638b75978" target="_blank">
+          <img src="assets/badges/aws-cloud-practitioner.png" width="85" alt="AWS Certified Cloud Practitioner"/><br>
+          <sub><b>AWS Cloud Practitioner</b></sub>
+        </a>
+      </td>
+      <td align="center" width="125">
+        <img src="assets/badges/hackviser-capt.png" width="85" alt="Hackviser CAPT"/><br>
+        <sub><b>Hackviser CAPT</b></sub>
+      </td>
+      <td align="center" width="125">
+        <img src="assets/badges/ibsec-linux-2024.png" width="85" alt="IBSEC Segurança em Linux 2024"/><br>
+        <sub><b>IBSEC Linux 2024</b></sub>
+      </td>
+      <td align="center" width="125">
+        <img src="assets/badges/ibsec-cybersecurity.png" width="85" alt="IBSEC Boas Práticas de Cibersegurança"/><br>
+        <sub><b>IBSEC Cibersegurança</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
@@ -271,12 +301,21 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="500" valign="top">
+      <h3>🛡️ Segurança da Informação & DevSecOps</h3>
+      <p>• <b>Hackviser:</b> CAPT — Certified Associate Penetration Tester<br>
+      • <b>IBSEC:</b> Segurança em Linux 2024 (Essencial)<br>
+      • <b>IBSEC:</b> Boas Práticas de Cibersegurança (Cybersecurity Awareness)</p>
+    </td>
+    <td width="500" valign="top">
       <h3>☕ Especializações Back-End & Cloud (Alura)</h3>
       <p>• Trilha Completa Linguagem Go (APIs RESTful, Gin, Testes)<br>
       • Formação Java & Spring Boot 3 (POO, JPA, Coleções, APIs RESTful)<br>
       • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)</p>
     </td>
-    <td width="500" valign="top">
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td colspan="2" width="1000" valign="top">
       <h3>💻 Especializações Front-End & SysOps (Alura)</h3>
       <p>• Formação Angular & TypeScript (Signals, Standalone Components)<br>
       • Desenvolvimento Web Front-End (HTML5, CSS3, ES6+)<br>
