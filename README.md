@@ -166,7 +166,10 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
 <img src="https://skillicons.dev/icons?i=idea" width="50"/><br><sub><b>IntelliJ IDEA</b></sub>
 </td>
 <td align="center" width="120">
-<img src="assets/icons/antigravity.png" width="50"/><br><sub><b>Antigravity</b></sub>
+<img src="assets/icons/antigravity-ide.png" width="50"/><br><sub><b>Antigravity IDE</b></sub>
+</td>
+<td align="center" width="120">
+<img src="assets/icons/antigravity-cli.png" width="50"/><br><sub><b>Antigravity CLI</b></sub>
 </td>
 </tr>
 </table>
