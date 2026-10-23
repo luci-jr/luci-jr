@@ -16,7 +16,7 @@
 
   <h1 align="center"><font color="#00bfbf">Lucivaldo Junior</font></h1>
 
-  <h3 align="center">⚡ Desenvolvedor Back-end | Java (Spring Boot) | Go | AWS | Docker | PostgreSQL</h3>
+  <h3 align="center">⚡ Desenvolvedor Back-end | Java (Spring Boot) | Go | AWS Certified Cloud Practitioner | Docker | PostgreSQL</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -38,7 +38,7 @@ Desenvolvedor de Software focado em **Desenvolvimento Back-end (Java, Spring Boo
 
 Possuo background de **15+ anos na liderança de equipes em ambientes de alta pressão** (atuando como Chef de Cozinha e Gestor de Operações), o que me proporcionou extrema disciplina, resiliência, senso de urgência e capacidade de resolução ágil de problemas em cenários críticos.
 
-Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no programa intensivo **AWS re/Start Graduate (300h)**, busco aplicar soluções eficientes, escaláveis e de alta qualidade no desenvolvimento de software.
+Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e pelo programa intensivo **AWS re/Start Graduate (300h)**, busco aplicar soluções eficientes, escaláveis e de alta qualidade no desenvolvimento de software.
 
 <br>
 
@@ -258,26 +258,27 @@ Graduando em **Análise e Desenvolvimento de Sistemas (UNAMA)** e certificado no
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="500" valign="top">
-      <h3>🎓 Formação Acadêmica</h3>
-      <p><b>Análise e Desenvolvimento de Sistemas</b><br>UNAMA — Universidade da Amazônia (Previsão: 2028)</p>
+      <h3>☁️ AWS Certified Cloud Practitioner</h3>
+      <p>Certificação Oficial da Indústria (CLF-C02) — Amazon Web Services<br>
+      🏅 <i>Validation: <code>c7992367362a4687a1b60804c98bac46</code> • <a href="https://www.credly.com/earner/earned/badge/18c251c3-0f10-4206-a71c-a00638b75978">Badge Oficial Credly</a></i></p>
     </td>
     <td width="500" valign="top">
       <h3>☁️ AWS re/Start Graduate</h3>
       <p>Formação Intensiva em Nuvem (300h) — AWS & Escola da Nuvem<br>
-      🏅 <i>Badge Oficial Credly</i></p>
+      🏅 <i><a href="https://www.credly.com/earner/earned/badge/972bc121-806a-4cbc-a9f2-c2d6d9c23061">Badge Oficial Credly</a></i></p>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="500" valign="top">
       <h3>☕ Especializações Back-End & Cloud (Alura)</h3>
-      <p>• Formação Java & Spring Boot 3 (POO, JPA, APIs RESTful)<br>
-      • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)<br>
-      • Linguagem Go (Golang) — POO e Aplicações Web</p>
+      <p>• Trilha Completa Linguagem Go (APIs RESTful, Gin, Testes)<br>
+      • Formação Java & Spring Boot 3 (POO, JPA, Coleções, APIs RESTful)<br>
+      • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)</p>
     </td>
     <td width="500" valign="top">
       <h3>💻 Especializações Front-End & SysOps (Alura)</h3>
-      <p>• Formação Angular & TypeScript (Signals, Control Flow)<br>
+      <p>• Formação Angular & TypeScript (Signals, Standalone Components)<br>
       • Desenvolvimento Web Front-End (HTML5, CSS3, ES6+)<br>
       • Linux Onboarding (CLI, Gestão de Arquivos) & Git/GitHub</p>
     </td>
