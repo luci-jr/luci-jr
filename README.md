@@ -276,6 +276,12 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
           <sub><b>AWS re/Start Graduate</b></sub>
         </a>
       </td>
+      <td align="center" width="135">
+        <a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">
+          <img src="assets/badges/alura-certificate.png" width="90" alt="Alura Formação Contínua (+600h)"/><br>
+          <sub><b>Alura (+600h Formações)</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
@@ -301,13 +307,15 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
       <h3>☕ Especializações Back-End & Cloud (Alura)</h3>
       <p>• Trilha Completa Linguagem Go (APIs RESTful, Gin, Testes)<br>
       • Formação Java & Spring Boot 3 (POO, JPA, Coleções, APIs RESTful)<br>
-      • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)</p>
+      • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)<br>
+      🏅 <i><a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">Certificado Unificado (+600h)</a></i></p>
     </td>
     <td width="500" valign="top">
       <h3>💻 Especializações Front-End & SysOps (Alura)</h3>
       <p>• Formação Angular & TypeScript (Signals, Standalone Components)<br>
       • Desenvolvimento Web Front-End (HTML5, CSS3, ES6+)<br>
-      • Linux Onboarding (CLI, Gestão de Arquivos) & Git/GitHub</p>
+      • Linux Onboarding (CLI, Gestão de Arquivos) & Git/GitHub<br>
+      🏅 <i><a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">Certificado Unificado (+600h)</a></i></p>
     </td>
   </tr>
 </table>
