@@ -264,23 +264,17 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="8">
     <tr>
-      <td align="center" width="125">
+      <td align="center" width="135">
         <a href="https://www.credly.com/earner/earned/badge/18c251c3-0f10-4206-a71c-a00638b75978" target="_blank">
-          <img src="assets/badges/aws-cloud-practitioner.png" width="85" alt="AWS Certified Cloud Practitioner"/><br>
+          <img src="assets/badges/aws-cloud-practitioner.png" width="90" alt="AWS Certified Cloud Practitioner"/><br>
           <sub><b>AWS Cloud Practitioner</b></sub>
         </a>
       </td>
-      <td align="center" width="125">
-        <img src="assets/badges/hackviser-capt.png" width="85" alt="Hackviser CAPT"/><br>
-        <sub><b>Hackviser CAPT</b></sub>
-      </td>
-      <td align="center" width="125">
-        <img src="assets/badges/ibsec-linux-2024.png" width="85" alt="IBSEC Segurança em Linux 2024"/><br>
-        <sub><b>IBSEC Linux 2024</b></sub>
-      </td>
-      <td align="center" width="125">
-        <img src="assets/badges/ibsec-cybersecurity.png" width="85" alt="IBSEC Boas Práticas de Cibersegurança"/><br>
-        <sub><b>IBSEC Cibersegurança</b></sub>
+      <td align="center" width="135">
+        <a href="https://www.credly.com/earner/earned/badge/972bc121-806a-4cbc-a9f2-c2d6d9c23061" target="_blank">
+          <img src="assets/badges/aws-restart-graduate.png" width="90" alt="AWS re/Start Graduate"/><br>
+          <sub><b>AWS re/Start Graduate</b></sub>
+        </a>
       </td>
     </tr>
   </table>
@@ -293,32 +287,23 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
     <td width="500" valign="top">
       <h3>☁️ AWS Certified Cloud Practitioner</h3>
       <p>Certificação Oficial da Indústria (CLF-C02) — Amazon Web Services<br>
-      🏅 <i>Validation: <code>c7992367362a4687a1b60804c98bac46</code> • <a href="https://www.credly.com/earner/earned/badge/18c251c3-0f10-4206-a71c-a00638b75978">Badge Oficial Credly</a></i></p>
+      🏅 <i>Validation: <code>c7992367362a4687a1b60804c98bac46</code> • <a href="https://www.credly.com/earner/earned/badge/18c251c3-0f10-4206-a71c-a00638b75978" target="_blank">Badge Oficial Credly</a></i></p>
     </td>
     <td width="500" valign="top">
       <h3>☁️ AWS re/Start Graduate</h3>
       <p>Formação Intensiva em Nuvem (300h) — AWS & Escola da Nuvem<br>
-      🏅 <i><a href="https://www.credly.com/earner/earned/badge/972bc121-806a-4cbc-a9f2-c2d6d9c23061">Badge Oficial Credly</a></i></p>
+      🏅 <i><a href="https://www.credly.com/earner/earned/badge/972bc121-806a-4cbc-a9f2-c2d6d9c23061" target="_blank">Badge Oficial Credly</a></i></p>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td width="500" valign="top">
-      <h3>🛡️ Segurança da Informação & DevSecOps</h3>
-      <p>• <b>Hackviser:</b> CAPT — Certified Associate Penetration Tester<br>
-      • <b>IBSEC:</b> Segurança em Linux 2024 (Essencial)<br>
-      • <b>IBSEC:</b> Boas Práticas de Cibersegurança (Cybersecurity Awareness)</p>
-    </td>
     <td width="500" valign="top">
       <h3>☕ Especializações Back-End & Cloud (Alura)</h3>
       <p>• Trilha Completa Linguagem Go (APIs RESTful, Gin, Testes)<br>
       • Formação Java & Spring Boot 3 (POO, JPA, Coleções, APIs RESTful)<br>
       • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)</p>
     </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td colspan="2" width="1000" valign="top">
+    <td width="500" valign="top">
       <h3>💻 Especializações Front-End & SysOps (Alura)</h3>
       <p>• Formação Angular & TypeScript (Signals, Standalone Components)<br>
       • Desenvolvimento Web Front-End (HTML5, CSS3, ES6+)<br>
