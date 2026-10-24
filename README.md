@@ -178,6 +178,71 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
 
 ---
 
+## 🏆 Formação, Certificações & Badges
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center" width="135">
+        <a href="https://www.credly.com/badges/18c251c3-0f10-4206-a71c-a00638b75978/public_url" target="_blank">
+          <img src="assets/badges/aws-cloud-practitioner.png" width="90" alt="AWS Certified Cloud Practitioner"/><br>
+          <sub><b>AWS Cloud Practitioner</b></sub>
+        </a>
+      </td>
+      <td align="center" width="135">
+        <a href="https://www.credly.com/badges/972bc121-806a-4cbc-a9f2-c2d6d9c23061/public_url" target="_blank">
+          <img src="assets/badges/aws-restart-graduate.png" width="90" alt="AWS re/Start Graduate"/><br>
+          <sub><b>AWS re/Start Graduate</b></sub>
+        </a>
+      </td>
+      <td align="center" width="135">
+        <a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">
+          <img src="assets/badges/alura-certificate.png" width="90" alt="Alura Formação Contínua (+600h)"/><br>
+          <sub><b>Alura (+600h Formações)</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="500" valign="top">
+      <h3>☁️ AWS Certified Cloud Practitioner</h3>
+      <p>Certificação Oficial da Indústria (CLF-C02) — Amazon Web Services<br>
+      🏅 <i>Validation: <code>c7992367362a4687a1b60804c98bac46</code> • <a href="https://www.credly.com/badges/18c251c3-0f10-4206-a71c-a00638b75978/public_url" target="_blank">Badge Oficial Credly</a></i></p>
+    </td>
+    <td width="500" valign="top">
+      <h3>☁️ AWS re/Start Graduate</h3>
+      <p>Formação Intensiva em Nuvem (300h) — AWS & Escola da Nuvem<br>
+      🏅 <i><a href="https://www.credly.com/badges/972bc121-806a-4cbc-a9f2-c2d6d9c23061/public_url" target="_blank">Badge Oficial Credly</a></i></p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="500" valign="top">
+      <h3>☕ Especializações Back-End & Cloud (Alura)</h3>
+      <p>• Trilha Completa Linguagem Go (APIs RESTful, Gin, Testes)<br>
+      • Formação Java & Spring Boot 3 (POO, JPA, Coleções, APIs RESTful)<br>
+      • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)<br>
+      🏅 <i><a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">Certificado Unificado (+600h)</a></i></p>
+    </td>
+    <td width="500" valign="top">
+      <h3>💻 Especializações Front-End & SysOps (Alura)</h3>
+      <p>• Formação Angular & TypeScript (Signals, Standalone Components)<br>
+      • Desenvolvimento Web Front-End (HTML5, CSS3, ES6+)<br>
+      • Linux Onboarding (CLI, Gestão de Arquivos) & Git/GitHub<br>
+      🏅 <i><a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">Certificado Unificado (+600h)</a></i></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
 ## 🗂️ Projetos em Destaque
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
@@ -251,71 +316,6 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e p
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
       <a href="https://github.com/luci-jr/colecao-retro">📁 Ver Repositório</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 🏆 Formação, Certificações & Badges
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
-    <tr>
-      <td align="center" width="135">
-        <a href="https://www.credly.com/badges/18c251c3-0f10-4206-a71c-a00638b75978/public_url" target="_blank">
-          <img src="assets/badges/aws-cloud-practitioner.png" width="90" alt="AWS Certified Cloud Practitioner"/><br>
-          <sub><b>AWS Cloud Practitioner</b></sub>
-        </a>
-      </td>
-      <td align="center" width="135">
-        <a href="https://www.credly.com/badges/972bc121-806a-4cbc-a9f2-c2d6d9c23061/public_url" target="_blank">
-          <img src="assets/badges/aws-restart-graduate.png" width="90" alt="AWS re/Start Graduate"/><br>
-          <sub><b>AWS re/Start Graduate</b></sub>
-        </a>
-      </td>
-      <td align="center" width="135">
-        <a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">
-          <img src="assets/badges/alura-certificate.png" width="90" alt="Alura Formação Contínua (+600h)"/><br>
-          <sub><b>Alura (+600h Formações)</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="500" valign="top">
-      <h3>☁️ AWS Certified Cloud Practitioner</h3>
-      <p>Certificação Oficial da Indústria (CLF-C02) — Amazon Web Services<br>
-      🏅 <i>Validation: <code>c7992367362a4687a1b60804c98bac46</code> • <a href="https://www.credly.com/badges/18c251c3-0f10-4206-a71c-a00638b75978/public_url" target="_blank">Badge Oficial Credly</a></i></p>
-    </td>
-    <td width="500" valign="top">
-      <h3>☁️ AWS re/Start Graduate</h3>
-      <p>Formação Intensiva em Nuvem (300h) — AWS & Escola da Nuvem<br>
-      🏅 <i><a href="https://www.credly.com/badges/972bc121-806a-4cbc-a9f2-c2d6d9c23061/public_url" target="_blank">Badge Oficial Credly</a></i></p>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="500" valign="top">
-      <h3>☕ Especializações Back-End & Cloud (Alura)</h3>
-      <p>• Trilha Completa Linguagem Go (APIs RESTful, Gin, Testes)<br>
-      • Formação Java & Spring Boot 3 (POO, JPA, Coleções, APIs RESTful)<br>
-      • Especialização em Serviços AWS (EC2, S3, VPC, RDS, DynamoDB)<br>
-      🏅 <i><a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">Certificado Unificado (+600h)</a></i></p>
-    </td>
-    <td width="500" valign="top">
-      <h3>💻 Especializações Front-End & SysOps (Alura)</h3>
-      <p>• Formação Angular & TypeScript (Signals, Standalone Components)<br>
-      • Desenvolvimento Web Front-End (HTML5, CSS3, ES6+)<br>
-      • Linux Onboarding (CLI, Gestão de Arquivos) & Git/GitHub<br>
-      🏅 <i><a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">Certificado Unificado (+600h)</a></i></p>
     </td>
   </tr>
 </table>
