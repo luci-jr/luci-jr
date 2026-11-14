@@ -48,7 +48,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 
 ## 💼 Experiência & Atuação de Mercado
 
-<table align="center" border="0" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 Dobem Tech</h3>
@@ -160,7 +160,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <img src="assets/icons/evolution-go.png" width="45"/><br><sub><b>Evolution Go</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="45"/><br><sub><b>Chatwoot</b></sub>
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub><b>GitHub</b></sub>
@@ -201,7 +201,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 ## 🏆 Formação, Certificações & Badges
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
+  <table cellpadding="8">
     <tr>
       <td align="center" width="145">
         <a href="https://www.credly.com/badges/972bc121-806a-4cbc-a9f2-c2d6d9c23061/public_url" target="_blank">
@@ -227,7 +227,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ AWS re/Start Graduate</h3>
@@ -265,10 +265,10 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 
 ## 🗂️ Projetos em Destaque
 
-<table align="center" border="0" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚛️ Nexus Agent Framework — Squad de IA & Servidor MCP</h3>
+      <h3><img src="assets/icons/nexus.png" width="22" height="22" align="middle" valign="middle"/> Nexus Agent Framework — Squad de IA & Servidor MCP</h3>
       <p>Ecossistema autônomo multi-agente projetado para orquestração de desenvolvimento, automações operacionais e engenharia de contexto. Integra um servidor <b>Model Context Protocol (MCP)</b> construído em <b>Go (Golang 1.22+)</b> com comunicação bidirecional via JSON-RPC, persistência local em cofre de conhecimento tipado (Nexus Vault), execução de ferramentas sandboxed e governança de tarefas concorrentes.</p>
       <p>
         <img src="https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
