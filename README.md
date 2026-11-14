@@ -79,16 +79,13 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <table align="center">
 <tr>
 <td align="center" width="130">
-<img src="https://cdn.simpleicons.org/anthropic/D4A373" width="45"/><br><sub><b>Model Context Protocol (MCP)</b></sub>
+<img src="assets/icons/mcp.png" width="45"/><br><sub><b>Model Context Protocol (MCP)</b></sub>
 </td>
 <td align="center" width="130">
 <img src="assets/icons/antigravity-cli.png" width="45"/><br><sub><b>Antigravity CLI</b></sub>
 </td>
 <td align="center" width="130">
-<img src="assets/icons/antigravity-ide.png" width="45"/><br><sub><b>Antigravity IDE</b></sub>
-</td>
-<td align="center" width="130">
-<img src="https://cdn.simpleicons.org/openai/412991" width="45"/><br><sub><b>Multi-Agent Squads</b></sub>
+<img src="https://cdn.simpleicons.org/probot/00BFBF" width="45"/><br><sub><b>Multi-Agent Squads</b></sub>
 </td>
 <td align="center" width="130">
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="45"/><br><sub><b>Context Engineering</b></sub>
@@ -101,29 +98,23 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <h2 align="center">☕ Back-End & Bancos de Dados</h2>
 <table align="center">
 <tr>
-<td align="center" width="115">
+<td align="center" width="125">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/><br><sub><b>Java 21 LTS</b></sub>
 </td>
-<td align="center" width="115">
+<td align="center" width="125">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45"/><br><sub><b>Spring Boot 3</b></sub>
 </td>
-<td align="center" width="115">
+<td align="center" width="125">
 <img src="https://skillicons.dev/icons?i=go" width="45"/><br><sub><b>Go 1.22+</b></sub>
 </td>
-<td align="center" width="115">
+<td align="center" width="125">
 <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br><sub><b>PostgreSQL 16</b></sub>
 </td>
-<td align="center" width="115">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><sub><b>MySQL</b></sub>
+<td align="center" width="125">
+<img src="assets/icons/aws-rds.svg" width="45"/><br><sub><b>AWS RDS</b></sub>
 </td>
-<td align="center" width="115">
+<td align="center" width="125">
 <img src="https://skillicons.dev/icons?i=redis" width="45"/><br><sub><b>Redis</b></sub>
-</td>
-<td align="center" width="115">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45"/><br><sub><b>Firestore</b></sub>
-</td>
-<td align="center" width="115">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45"/><br><sub><b>Oracle DB</b></sub>
 </td>
 </tr>
 </table>
@@ -133,19 +124,22 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <h2 align="center">☁️ Cloud, SysOps & DevOps</h2>
 <table align="center">
 <tr>
-<td align="center" width="125">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=aws" width="45"/><br><sub><b>AWS Cloud</b></sub>
 </td>
-<td align="center" width="125">
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gcp" width="45"/><br><sub><b>GCP</b></sub>
+</td>
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="45"/><br><sub><b>Docker Swarm</b></sub>
 </td>
-<td align="center" width="125">
+<td align="center" width="120">
 <img src="https://cdn.simpleicons.org/traefikproxy/24A148" width="45"/><br><sub><b>Traefik v2</b></sub>
 </td>
-<td align="center" width="125">
-<img src="https://skillicons.dev/icons?i=linux" width="45"/><br><sub><b>Linux Ubuntu</b></sub>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="45"/><br><sub><b>Linux CLI</b></sub>
 </td>
-<td align="center" width="125">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br><sub><b>CI / CD</b></sub>
 </td>
 </tr>
@@ -153,29 +147,26 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 
 ---
 
-<h2 align="center">⚡ Automação, Integrações & Ferramentas</h2>
+<h2 align="center">⚡ Automação, Integrações & Produtividade</h2>
 <table align="center">
 <tr>
-<td align="center" width="115">
+<td align="center" width="120">
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/><br><sub><b>n8n</b></sub>
 </td>
-<td align="center" width="115">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/><br><sub><b>WhatsApp API</b></sub>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/meta/0468D7" width="45"/><br><sub><b>Meta API</b></sub>
 </td>
-<td align="center" width="115">
+<td align="center" width="120">
+<img src="assets/icons/evolution-go.png" width="45"/><br><sub><b>Evolution Go</b></sub>
+</td>
+<td align="center" width="120">
 <img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="45"/><br><sub><b>Chatwoot</b></sub>
 </td>
-<td align="center" width="115">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub><b>Git / GitHub</b></sub>
 </td>
-<td align="center" width="115">
-<img src="https://skillicons.dev/icons?i=postman" width="45"/><br><sub><b>Postman</b></sub>
-</td>
-<td align="center" width="115">
-<img src="https://cdn.simpleicons.org/dbeaver/382923" width="45"/><br><sub><b>DBeaver</b></sub>
-</td>
-<td align="center" width="115">
-<img src="https://skillicons.dev/icons?i=idea" width="45"/><br><sub><b>IntelliJ IDEA</b></sub>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/trello/0079BF" width="45"/><br><sub><b>Trello (Kanban)</b></sub>
 </td>
 </tr>
 </table>
@@ -342,11 +333,11 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Ecossistema de Automações & SysOps</h3>
-      <p>Conjunto de ferramentas e rotinas operacionais para ambiente Linux Ubuntu e servidores na nuvem: pipelines de sincronização incremental, scripts em Bash com monitor visual estilo Docker, workflows no <b>n8n</b> com mensageria e gestão de contingência com políticas rígidas de backup.</p>
+      <p>Conjunto de ferramentas e rotinas operacionais para ambiente Linux e servidores na nuvem: pipelines de sincronização incremental, scripts em Bash com monitor visual estilo Docker, workflows no <b>n8n</b> com mensageria e gestão de contingência com políticas rígidas de backup.</p>
       <p>
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/n8n-FF91AC?style=flat-square&logo=n8n&logoColor=191919"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git_Automation-F05032?style=flat-square&logo=git&logoColor=white"/>
       </p>
       <a href="https://portifolio.lucivaldo.cloud">🌐 Ver Portfólio Completo</a>
