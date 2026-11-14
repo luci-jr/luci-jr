@@ -296,18 +296,6 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 2Lopes STI — Plataforma Empresarial Integrada & SaaS</h3>
-      <p>Plataforma SaaS empresarial de ponta a ponta desenvolvida para a 2Lopes Soluções em Tecnologia. Integra vitrine comercial B2B/B2C, portal do cliente para abertura e acompanhamento de chamados técnicos N2/N3 e painel administrativo CMS. Backend em <b>NestJS</b> com <b>Prisma ORM</b>, <b>PostgreSQL 18</b>, documentação Swagger/OpenAPI e frontend reativo modular em <b>Angular 22+</b> (Standalone & Signals).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular_22+-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL_18-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/luci-jr/2lopes-sti">📁 Ver Repositório</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🏹 Égua Mano! Gamer — Aventura 16-Bit & Engine em Go</h3>
       <p>Jogo de ação e plataforma 16-bit com game engine autoral desenvolvida 100% em <b>Go (Golang 1.22+)</b> com <b>Ebitengine v2</b>. Ambientado na cultura de Belém (Ver-o-Peso, Estação das Docas), conta com física vetorial AABB, gerenciamento de memória com fatias de alocação zero (<i>zero-allocation slices</i>) para mitigar pausas do Garbage Collector, sintetizador procedural chiptune 8-bit e compilação cruzada para WebAssembly.</p>
       <p>
@@ -318,9 +306,6 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
       </p>
       <a href="https://github.com/luci-jr/egua-mano_gamer">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://luci-jr.github.io/egua-mano_gamer/">🕹️ Jogar Online</a>
     </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Comunidade Tech — Plataforma de Curadoria Educacional</h3>
       <p>Plataforma web concebida para apoiar iniciantes na área de Tecnologia da Informação com trilhas estruturadas por sistemas operacionais (Linux, WSL2, MacOS), linguagens e murais comunitários. SPA reativa desenvolvida em <b>Angular 21</b> com Signals, Control Flow moderno e integração de persistência em tempo real com <b>Firebase (Firestore & Hosting)</b>.</p>
@@ -330,17 +315,6 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <a href="https://github.com/luci-jr/comunidade-tech">📁 Ver Repositório</a> &nbsp;|&nbsp; <a href="https://comunidade.tech.lucivaldo.cloud/inicio">🌍 Acessar Online</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Ecossistema de Automações & SysOps</h3>
-      <p>Conjunto de ferramentas e rotinas operacionais para ambiente Linux e servidores na nuvem: pipelines de sincronização incremental, scripts em Bash com monitor visual estilo Docker, workflows no <b>n8n</b> com mensageria e gestão de contingência com políticas rígidas de backup.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git_Automation-F05032?style=flat-square&logo=git&logoColor=white"/>
-      </p>
-      <a href="https://portifolio.lucivaldo.cloud">🌐 Ver Portfólio Completo</a>
     </td>
   </tr>
 </table>
