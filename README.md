@@ -151,7 +151,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45"/><br><sub><b>n8n</b></sub>
+<img src="assets/icons/n8n.png" width="85"/><br><sub><b>n8n</b></sub>
 </td>
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/meta/0468D7" width="45"/><br><sub><b>Meta API</b></sub>
@@ -163,7 +163,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="45"/><br><sub><b>Chatwoot</b></sub>
 </td>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub><b>Git / GitHub</b></sub>
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/trello/0079BF" width="45"/><br><sub><b>Trello (Kanban)</b></sub>
@@ -177,7 +177,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <table align="center">
 <tr>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=angular" width="45"/><br><sub><b>Angular 21/22+</b></sub>
+<img src="https://skillicons.dev/icons?i=angular" width="52"/><br><sub><b>Angular 21/22+</b></sub>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=ts" width="45"/><br><sub><b>TypeScript</b></sub>
@@ -268,7 +268,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <table align="center" border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Nexus Agent Framework — Squad de IA & Servidor MCP</h3>
+      <h3>⚛️ Nexus Agent Framework — Squad de IA & Servidor MCP</h3>
       <p>Ecossistema autônomo multi-agente projetado para orquestração de desenvolvimento, automações operacionais e engenharia de contexto. Integra um servidor <b>Model Context Protocol (MCP)</b> construído em <b>Go (Golang 1.22+)</b> com comunicação bidirecional via JSON-RPC, persistência local em cofre de conhecimento tipado (Nexus Vault), execução de ferramentas sandboxed e governança de tarefas concorrentes.</p>
       <p>
         <img src="https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
