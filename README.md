@@ -216,6 +216,12 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
         </a>
       </td>
       <td align="center" width="145">
+        <a href="https://www.credly.com/badges/050702b6-b279-4d3b-a38b-038bea61bd59/public_url" target="_blank">
+          <img src="assets/badges/aws-amazon-connect.png" width="95" alt="AWS Knowledge: Amazon Connect Fundamentals"/><br>
+          <sub><b>AWS Amazon Connect</b><br>Fundamentals</sub>
+        </a>
+      </td>
+      <td align="center" width="145">
         <a href="https://cursos.alura.com.br/user/lucivaldojr25/fullCertificate/888548fd987b6f473d840136e462e556" target="_blank">
           <img src="assets/badges/alura-certificate.png" width="95" alt="Alura Formação Contínua (+600h)"/><br>
           <sub><b>Alura Formação Contínua</b><br>(+600h)</sub>
@@ -238,6 +244,14 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
       <h3>☁️ AWS Certified Cloud Practitioner</h3>
       <p>Certificação Oficial da Indústria (CLF-C02) — Amazon Web Services<br>
       🏅 <i>Validation: <code>c7992367362a4687a1b60804c98bac46</code> • <a href="https://www.credly.com/badges/18c251c3-0f10-4206-a71c-a00638b75978/public_url" target="_blank">Badge Oficial Credly</a></i></p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>☁️ AWS Knowledge: Amazon Connect Fundamentals</h3>
+      <p>Formação Oficial em Nuvem & Contact Center Omnichannel — Amazon Web Services Training & Certification<br>
+      🏅 <i><a href="https://www.credly.com/badges/050702b6-b279-4d3b-a38b-038bea61bd59/public_url" target="_blank">Badge Oficial Credly</a></i></p>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
