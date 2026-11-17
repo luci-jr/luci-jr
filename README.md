@@ -268,8 +268,8 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="assets/icons/nexus.png" width="22" height="22" align="middle" valign="middle"/> Nexus Agent Framework — Squad de IA & Servidor MCP</h3>
-      <p>Ecossistema autônomo multi-agente projetado para orquestração de desenvolvimento, automações operacionais e engenharia de contexto. Integra um servidor <b>Model Context Protocol (MCP)</b> construído em <b>Go (Golang 1.22+)</b> com comunicação bidirecional via JSON-RPC, persistência local em cofre de conhecimento tipado (Nexus Vault), execução de ferramentas sandboxed e governança de tarefas concorrentes.</p>
+      <h3><img src="assets/icons/nexus.png" width="22" height="22" align="middle" valign="middle"/> Nexus Ecosystem (Open Source Edition) — Squad de IA & Servidor MCP</h3>
+      <p>A versão aberta da plataforma autônoma multi-agente projetada para orquestração de desenvolvimento, automações operacionais e engenharia de contexto. Integra um servidor <b>Model Context Protocol (MCP)</b> construído em <b>Go (Golang 1.22+)</b> com comunicação bidirecional via JSON-RPC, persistência local em cofre de conhecimento tipado (Nexus Vault), execução de ferramentas sandboxed e governança de tarefas concorrentes.</p>
       <p>
         <img src="https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/MCP_Protocol-8A2BE2?style=flat-square"/>
@@ -277,7 +277,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
         <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/luci-jr/nexus-agent-framework">📁 Ver Repositório</a>
+      <a href="https://github.com/luci-jr/nexus-ecosystem-open">📁 Ver Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎰 Engine de Apostas (<a href="https://junglegaming.io/pt" target="_blank">Jungle Gaming</a>) — Jungle Slots 1987</h3>
@@ -296,8 +296,8 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏹 Égua Mano! Gamer — Aventura 16-Bit & Engine em Go</h3>
-      <p>Jogo de ação e plataforma 16-bit com game engine autoral desenvolvida 100% em <b>Go (Golang 1.22+)</b> com <b>Ebitengine v2</b>. Ambientado na cultura de Belém (Ver-o-Peso, Estação das Docas), conta com física vetorial AABB, gerenciamento de memória com fatias de alocação zero (<i>zero-allocation slices</i>) para mitigar pausas do Garbage Collector, sintetizador procedural chiptune 8-bit e compilação cruzada para WebAssembly.</p>
+      <h3>🏹 Égua Mano! Gamer — Jogo de Plataforma 2D em Go</h3>
+      <p>Jogo de ação e plataforma 2D construído em <b>Go</b> com a <b>Ebitengine v2</b>, ambientado na cultura de Belém do Pará (Ver-o-Peso, Estação das Docas). Apresenta mecânica de pulo com altura variável e pulo duplo, colisão AABB, sintetizador procedural de áudio chiptune 8-bit em código Go puro (ondas NES) e compilação cruzada para WebAssembly (jogável no navegador), desktop e Android.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ebitengine-00BFBF?style=flat-square"/>
@@ -328,11 +328,11 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" align="center">
-      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
+      <img height="165" src="https://github-stats-extended.vercel.app/api?username=luci-jr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true" />
     </td>
     <td width="10"></td>
     <td valign="top" align="center">
-      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
+      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luci-jr&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20" />
     </td>
   </tr>
 </table>
@@ -340,7 +340,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 <br>
 
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="Coding Gif" />
+  <img width="100%" src="assets/coding.gif" alt="Coding Gif" />
 </div>
 
 <br>
@@ -384,7 +384,7 @@ Certificado oficialmente como **AWS Certified Cloud Practitioner (CLF-C02)** e g
 
 <div align="center">
   <a href="https://luci-jr.github.io/egua-mano_gamer/" target="_blank">
-    <img width="100%" src="./egua_mano.gif" alt="Égua Mano! Gamer — Jogue Online" />
+    <img width="100%" src="assets/egua_mano.gif" alt="Égua Mano! Gamer — Jogue Online" />
   </a>
 </div>
 
